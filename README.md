@@ -1,5 +1,5 @@
 # CalCounter
-Fed up with myFitnessPal and trying to build on calorie counter app from @nsaigal. 
+All credit due to @nsaigal. I'm just optimizing his app for my own personal use.
 
 Planned Edits:
 
